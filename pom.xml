@@ -10,8 +10,8 @@
 
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
-    <artifactId>hellojs</artifactId>
-    <version>1.5.0</version>
+    <artifactId>hello.js</artifactId>
+    <version>1.5.0-SNAPSHOT</version>
     <name>hello.js</name>
     <description>WebJar for hello.js</description>
     <url>http://webjars.org</url>
@@ -32,9 +32,9 @@
     </licenses>
 
     <scm>
-        <url>https://github.com/comsysto/hello.js.webjar</url>
-        <connection>scm:git:https://github.com/comsysto/hello.js.webjar.git</connection>
-        <developerConnection>scm:git:https://github.com/comsysto/hello.js.webjar.git</developerConnection>
+        <url>https://github.com/webjars/hello.js</url>
+        <connection>scm:git:https://github.com/webjars/hello.js.git</connection>
+        <developerConnection>scm:git:https://github.com/webjars/hello.js.git</developerConnection>
         <tag>HEAD</tag>
     </scm>
     
