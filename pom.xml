@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>hello.js</artifactId>
-    <version>1.5.0</version>
+    <version>1.5.1-SNAPSHOT</version>
     <name>hello.js</name>
     <description>WebJar for hello.js</description>
     <url>http://webjars.org</url>
@@ -35,7 +35,7 @@
         <url>https://github.com/webjars/hello.js</url>
         <connection>scm:git:https://github.com/webjars/hello.js.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/hello.js.git</developerConnection>
-        <tag>hello.js-1.5.0</tag>
+        <tag>HEAD</tag>
     </scm>
     
     <properties>
